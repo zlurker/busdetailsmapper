@@ -1,0 +1,10 @@
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\obj\Debug\BusListGenerator.csprojAssemblyReference.cache
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\obj\Debug\BusListGenerator.csproj.CoreCompileInputs.cache
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\bin\Debug\BusListGenerator.exe.config
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\bin\Debug\BusListGenerator.exe
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\bin\Debug\BusListGenerator.pdb
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\obj\Debug\BusListGenerator.csproj.CopyComplete
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\obj\Debug\BusListGenerator.exe
+C:\Users\gabriel_chia\Source\Repos\BusListGenerator\BusListGenerator\obj\Debug\BusListGenerator.pdb
